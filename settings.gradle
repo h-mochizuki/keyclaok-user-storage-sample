@@ -1,0 +1,4 @@
+rootProject.name = 'keycloak-user-storage-sample'
+include 'user-storage-app'
+include 'user-storage-ear'
+

@@ -1,2 +1,4 @@
 # keyclaok-user-storage-sample
-keycloakのユーザストレージを外部DBとつなぐサンプルコード
+keycloakのユーザストレージに外部DBを参照させるサンプルコード
+
+DBはPostgresqlになっているので使用DBに併せて変更すること
